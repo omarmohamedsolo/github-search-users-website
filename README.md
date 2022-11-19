@@ -1,2 +1,3 @@
 # github-search-users-website
-github-search-users-website  developed by Omar Mohamed
+github-search-users-website 
+developed by Omar Mohamed
